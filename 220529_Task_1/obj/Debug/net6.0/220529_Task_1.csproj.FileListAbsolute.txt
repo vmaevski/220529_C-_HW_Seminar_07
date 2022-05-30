@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Door\GB\Домашняя работа\220529_C#_HW_Seminar_07\220529_Task_1\obj\Debug\net6.0\220529_Task_1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Door\GB\Домашняя работа\220529_C#_HW_Seminar_07\220529_Task_1\obj\Debug\net6.0\220529_Task_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Door\GB\Домашняя работа\220529_C#_HW_Seminar_07\220529_Task_1\obj\Debug\net6.0\220529_Task_1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Door\GB\Домашняя работа\220529_C#_HW_Seminar_07\220529_Task_1\obj\Debug\net6.0\220529_Task_1.AssemblyInfo.cs
+C:\Users\User\Desktop\Door\GB\Домашняя работа\220529_C#_HW_Seminar_07\220529_Task_1\obj\Debug\net6.0\220529_Task_1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Door\GB\Домашняя работа\220529_C#_HW_Seminar_07\220529_Task_1\bin\Debug\net6.0\220529_Task_1.exe
+C:\Users\User\Desktop\Door\GB\Домашняя работа\220529_C#_HW_Seminar_07\220529_Task_1\bin\Debug\net6.0\220529_Task_1.deps.json
+C:\Users\User\Desktop\Door\GB\Домашняя работа\220529_C#_HW_Seminar_07\220529_Task_1\bin\Debug\net6.0\220529_Task_1.runtimeconfig.json
+C:\Users\User\Desktop\Door\GB\Домашняя работа\220529_C#_HW_Seminar_07\220529_Task_1\bin\Debug\net6.0\220529_Task_1.dll
+C:\Users\User\Desktop\Door\GB\Домашняя работа\220529_C#_HW_Seminar_07\220529_Task_1\bin\Debug\net6.0\220529_Task_1.pdb
+C:\Users\User\Desktop\Door\GB\Домашняя работа\220529_C#_HW_Seminar_07\220529_Task_1\obj\Debug\net6.0\220529_Task_1.dll
+C:\Users\User\Desktop\Door\GB\Домашняя работа\220529_C#_HW_Seminar_07\220529_Task_1\obj\Debug\net6.0\refint\220529_Task_1.dll
+C:\Users\User\Desktop\Door\GB\Домашняя работа\220529_C#_HW_Seminar_07\220529_Task_1\obj\Debug\net6.0\220529_Task_1.pdb
+C:\Users\User\Desktop\Door\GB\Домашняя работа\220529_C#_HW_Seminar_07\220529_Task_1\obj\Debug\net6.0\220529_Task_1.genruntimeconfig.cache
+C:\Users\User\Desktop\Door\GB\Домашняя работа\220529_C#_HW_Seminar_07\220529_Task_1\obj\Debug\net6.0\ref\220529_Task_1.dll
