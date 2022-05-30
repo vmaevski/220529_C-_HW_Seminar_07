@@ -45,11 +45,10 @@ Console.Write("Введите номер строки элемента: ");
 int rowNumber = int.Parse(Console.ReadLine()) - 1;
 Console.Write("Введите номер столбца элемента: ");
 int columnNumber = int.Parse(Console.ReadLine()) - 1;
-// if (rowNumber > array.GetLength(0) || columnNumber > array.GetLength(1) || rowNumber < 1 || columnNumber < 1)
-if (rowNumber > row || columnNumber > column || rowNumber < 1 || columnNumber < 1)
-{
-    Console.WriteLine("Такого элемента нет!");
-}
+if (rowNumber > row 
+    || columnNumber > column 
+    || rowNumber < 1 
+    || columnNumber < 1)    Console.WriteLine("Такого элемента нет!");
 else
 {
     Console.WriteLine(Math.Round(GetElementValue(array, rowNumber, columnNumber), 2));
